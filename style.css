@@ -30,7 +30,7 @@
   p {
     font-size: 18px;
     font-family: monospace;
-    color:#666666;
+    color:#666666 !important;
   }
   
   h1 {
@@ -42,17 +42,17 @@
   }
   
   h2 { 
-    font-size: 22px;
+    font-size: 20px;
     color: #667B7C;
   }
   
   h3 { 
-    font-size: 20px;
+    font-size: 18px;
     color: #595959;
   }
   
   h4 { 
-    font-size: 20px;
+    font-size: 16px;
     font-style: italic;
     color: #737373;
   }
