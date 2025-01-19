@@ -1,5 +1,5 @@
 .main-container {
-    max-width: 60%;
+    max-width: 90vw;
     margin-left: auto;
     margin-right: auto;
   }
@@ -44,6 +44,7 @@
   h2 { 
     font-size: 20px;
     color: #667B7C;
+    font-family: monospace;
   }
   
   h3 { 
