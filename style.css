@@ -1,5 +1,5 @@
 .main-container {
-    max-width: 90vw;
+    max-width: 60%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -29,7 +29,7 @@
   
   p {
     font-size: 18px;
-    font-family: monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:#666666 !important;
   }
   
@@ -38,13 +38,13 @@
     font-weight: bold;
     color: #404040;
     line-height: 120%;
-    font-family: monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   h2 { 
     font-size: 20px;
     color: #667B7C;
-    font-family: monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   h3 { 
